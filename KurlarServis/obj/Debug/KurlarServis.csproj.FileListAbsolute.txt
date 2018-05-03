@@ -1,0 +1,7 @@
+C:\Users\3E-BarisHintoglu\Documents\Visual Studio 2017\Projects\KurlarServis\KurlarServis\bin\KurlarServis.dll.config
+C:\Users\3E-BarisHintoglu\Documents\Visual Studio 2017\Projects\KurlarServis\KurlarServis\bin\KurlarServis.dll
+C:\Users\3E-BarisHintoglu\Documents\Visual Studio 2017\Projects\KurlarServis\KurlarServis\bin\KurlarServis.pdb
+C:\Users\3E-BarisHintoglu\Documents\Visual Studio 2017\Projects\KurlarServis\KurlarServis\obj\Debug\KurlarServis.csprojResolveAssemblyReference.cache
+C:\Users\3E-BarisHintoglu\Documents\Visual Studio 2017\Projects\KurlarServis\KurlarServis\obj\Debug\KurlarServis.csproj.CoreCompileInputs.cache
+C:\Users\3E-BarisHintoglu\Documents\Visual Studio 2017\Projects\KurlarServis\KurlarServis\obj\Debug\KurlarServis.dll
+C:\Users\3E-BarisHintoglu\Documents\Visual Studio 2017\Projects\KurlarServis\KurlarServis\obj\Debug\KurlarServis.pdb

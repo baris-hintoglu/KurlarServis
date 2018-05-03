@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KurlarServis", "KurlarServis\KurlarServis.csproj", "{9166DAA1-ECA4-47A2-A4D4-C53F78BF7614}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KurlarMvx", "KurlarMvx\KurlarMvx.csproj", "{EE3D03B4-E389-4CBC-9A4D-271B16F221AF}"
+	ProjectSection(ProjectDependencies) = postProject
+		{9166DAA1-ECA4-47A2-A4D4-C53F78BF7614} = {9166DAA1-ECA4-47A2-A4D4-C53F78BF7614}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9166DAA1-ECA4-47A2-A4D4-C53F78BF7614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9166DAA1-ECA4-47A2-A4D4-C53F78BF7614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9166DAA1-ECA4-47A2-A4D4-C53F78BF7614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9166DAA1-ECA4-47A2-A4D4-C53F78BF7614}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE3D03B4-E389-4CBC-9A4D-271B16F221AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE3D03B4-E389-4CBC-9A4D-271B16F221AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE3D03B4-E389-4CBC-9A4D-271B16F221AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE3D03B4-E389-4CBC-9A4D-271B16F221AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AB570E5-AD8B-47F4-921A-22E353128601}
+	EndGlobalSection
+EndGlobal
